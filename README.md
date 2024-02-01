@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning Java :D
 - 💞️ I’m looking to collaborate on Servers and stuffs.
 - 📫 How to reach me:
+
   Twitter (@wrldmap)
   Mastodon (@wrldmap@mastodon.social)
   Discord (wrldmap)
   Main GitHub ([wrldmap](https://www.github.com/wrldmap))
+
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I live.
