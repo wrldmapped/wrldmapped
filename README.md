@@ -5,8 +5,11 @@
 - 📫 How to reach me:
 
   Twitter (@wrldmap)
+  
   Mastodon (@wrldmap@mastodon.social)
+  
   Discord (wrldmap)
+  
   Main GitHub ([wrldmap](https://www.github.com/wrldmap))
 
 - 😄 Pronouns: He/Him
