@@ -5,6 +5,8 @@
 - 📫 How to reach me:
 
   Twitter (@wrldmap)
+
+  Email (wrldmap@proton.me)
   
   Mastodon (@wrldmap@mastodon.social)
   
